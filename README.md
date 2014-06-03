@@ -9,7 +9,7 @@ want.
 
 2. When a user send a message from whatever ui you created in step #1 the implementation should then mock a response after
 a short delay.  So if you send a message to Bob, pretend Bob sends you back a message after some short time period
-(hint: schedule something and use the delgates provided)
+(hint: schedule something and use the delegates provided)
 
 3. What models would you need to add to support conversations with many users?
 
